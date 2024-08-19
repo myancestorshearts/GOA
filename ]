@@ -1,0 +1,30 @@
+made the woocommerce plugin;
+
+rd press intergration
+# Please ;enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch zack
+# Your branch is up to date with 'origin/zack'.
+#
+# Changes to be committed:
+#	modified:   app/Http/Controllers/Api/ApiController.php
+#	modified:   app/Integrations/Integration.php
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   public/global/assets/js/views/admin.min.js
+#	modified:   public/global/assets/js/views/authenticate.min.js
+#	modified:   public/global/assets/js/views/embed-calculator.min.js
+#	modified:   public/global/assets/js/views/portal.min.js
+#	modified:   public/global/assets/js/views/portal.min.js.LICENSE.txt
+#	modified:   resources/js/common/api.jsx
+#	modified:   resources/js/common/webclient.jsx
+#	modified:   resources/js/views/portal/content/forms/integrations/index.jsx
+#	modified:   routes/api.php
+#
+# Untracked files:
+#	app/Integrations/WooCommerce.php
+#	app/Integrations/WooCommercePlugin.php
+#	app/Libraries/InternationalShipment/plugin (11).zip
+#	resources/js/views/portal/content/forms/integrations/woocommerce/
+#
